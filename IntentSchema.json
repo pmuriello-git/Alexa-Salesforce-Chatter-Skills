@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "ChatterStartIntent",
+      "slots": []
+    },
+    {
+     "intent": "ChatterGroupIntent",
+     "slots":[
+        {
+          "name": "Group",
+          "type": "LITERAL"
+        }
+      ]
+    },
+  ]
+ }
