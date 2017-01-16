@@ -1,0 +1,3 @@
+ChatterPostIntent for the most recent Chatter post
+
+MyCalendarIntent for my calendar for today
