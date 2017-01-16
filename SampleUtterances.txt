@@ -1,3 +1,5 @@
-ChatterPostIntent for the most recent Chatter post
+ChatterGroupPostIntent for the most recent post for group {Platform Encryption - Salesforce Shield|Group}
+ChatterGroupPostIntent for the most recent post for group {Salesforce EA - Industries Team|Group}
+ChatterGroupPostIntent for the most recent post for group {Industries - Healthcare|Group}
 
 MyCalendarIntent for my calendar for today
