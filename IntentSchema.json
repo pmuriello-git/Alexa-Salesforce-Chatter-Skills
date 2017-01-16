@@ -1,11 +1,7 @@
 {
   "intents": [
     {
-      "intent": "ChatterStartIntent",
-      "slots": []
-    },
-    {
-     "intent": "ChatterGroupIntent",
+     "intent": "ChatterGroupPostIntent",
      "slots":[
         {
           "name": "Group",
