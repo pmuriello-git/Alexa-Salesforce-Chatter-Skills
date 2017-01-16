@@ -13,5 +13,9 @@
         }
       ]
     },
+    {
+      "intent": "MyCalendarIntent",
+      "slots": []
+    }
   ]
  }
